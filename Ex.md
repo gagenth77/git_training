@@ -1,4 +1,3 @@
-Exercice
+# Exercice
 * Part 1
-
 
